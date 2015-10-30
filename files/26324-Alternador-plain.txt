@@ -1,0 +1,62 @@
+El Alternador es una máquina destinada a transformar la energía mecánica en eléctrica, generando, mediante fenómenos de inducción, una corriente alterna. 
+
+Los alternadores están fundados en el principio de que en un conductor sometido a un campo magnético variable se crea una tensión eléctrica inducida cuya polaridad depende del sentido del campo y su valor del flujo que lo atraviesa.
+
+Un alternador consta de dos partes fundamentales, el inductor, que es el que crea el campo magnético y el inducido que es el conductor el cual es atravesado por las líneas de fuerza de dicho campo magnético. 
+
+ 
+
+Figura 1.- Disposición de elementos en un alternador simple
+
+ 
+
+
+Así, en el alternador mostrado en la Figura 1, el inductor está constituido por el rotor R, dotado de cuatro piezas magnéticas cuya polaridad se indica. Estas piezas pueden estar imantadas de forma permanente o ser electroimanes. En las grandes máquinas el inductor siempre está constituido por electroimanes, cuya corriente de alimentación o excitación proviene de un generador de corriente continua auxiliar o de la propia corriente alterna generada por el alternador convenientemente rectificada.
+
+El inducido está constituido por las cuatro bobinas a-b, c-d, e-f y g-h, arrolladas sobre piezas de hierro que se magnetizan bajo la acción de los imanes o electroimanes del inductor. Dado que el inductor está girando, el campo magnético que actúa sobre las cuatro piezas de hierro cambia de sentido cuando el rotor gira 90º, y su intensidad pasa de un máximo, cuando están las piezas enfrentadas como en la figura, a un mínimo cuando los polos N y S están equidistantes de las piezas de hierro.
+
+Son estas variaciones de sentido y de intensidad del campo magnético las que inducirán en las cuatro bobinas una diferencia de potencial que cambia de valor y de polaridad siguiendo el ritmo del campo.
+
+El flujo magnético ( ) a través de cada espira de las bobinas que constituyen el inducido tiene por valor el producto de la intensidad de campo (B), por la superficie de la espira (s) y por el coseno del ángulo formado por el plano que contiene a esta y la dirección del campo magnético (cos  ), por lo que el flujo en cada instante será:
+
+  
+
+
+Como por otra parte tenemos que siempre que se produce una variación del flujo magnético que atraviesa a una espira se produce en ella una F.E.M. (E) inducida cuyo valor es igual a la velocidad de variación del flujo, por tanto tendremos que,
+
+ 
+
+
+El signo menos delante de E expresa que, según la Ley de Lenz, la corriente inducida se opone a la variación del flujo que la genera.
+
+Si la fuerza electromotriz inducida en una espira es igual a E, la fuerza electromotiz total (ETOT) es igual a:
+
+ 
+
+
+siendo n el número total de espiras del inducido. 
+
+La frecuencia de la corriente alterna que aparece entre las bornas A-B se obtiene multiplicando el número de vueltas por segundo del inductor por el número de pares de polos del inducido (en el caso ilustrado, 2).
+
+ Enlaces externos .
+ El Alternador.
+ Funcionamiento del Alternador;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
