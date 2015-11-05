@@ -3,7 +3,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
 
-def freq_dist(path, out, stop_lang):
+def freq_dist(path, out):
     """Write the most common words from each text of the selected path into a file using FreqDist.
     Params:
         path: path with texts to apply freq_dist.
@@ -13,7 +13,7 @@ def freq_dist(path, out, stop_lang):
     target = open(out, 'w')
 
     tokenizer = RegexpTokenizer(r'\w+')
-    stops = stopwords.words(stop_lang)
+    stops = stopwords.words('spanish')
 
     target.truncate()
     most_common = []
